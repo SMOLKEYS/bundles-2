@@ -1,0 +1,9 @@
+{
+"name": "bundles-rickroll",
+"displayName": "Bundles NSFW",
+"author": "SMOLKEYS",
+"description": "something i made",
+"version": "1",
+"minGameVersion": "126",
+"hidden": true
+}
