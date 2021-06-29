@@ -1,8 +1,8 @@
 Events.on(ClientLoadEvent, b => {
     Vars.ui.showCustomConfirm(
-        "tomfoolery",
-        "tomfoolery",
-        "haha",
+        "you disgust me",
+        "what kind of tomfoolery did you download",
+        "idk",
         "yes",
         ()=>{
             print("h");
