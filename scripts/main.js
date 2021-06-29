@@ -1,2 +1,2 @@
-Call.infoMessage("tomfoolery")
-Core.bundle.debug("never gonna give you up, never gonna let you down")
+Vars.enableConsole = true;
+require("content/tomfoolery");
