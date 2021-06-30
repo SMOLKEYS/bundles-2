@@ -15,4 +15,4 @@ Events.on(ClientLoadEvent, b => {
 });
 //code above belongs to RebornTrack970, code below is created by me
 Core.bundle.debug("never gonna give you up, never gonna let you down")
-const aaaa = require("responses/suffering");
+const aaaa = require("responses/suffering")
