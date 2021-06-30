@@ -1,3 +1,4 @@
+const suffering = require("bundles-rickroll-routation");
 Events.on(ClientLoadEvent, b => {
       Vars.ui.showCustomConfirm(
         "you disgust me",
@@ -9,9 +10,9 @@ Events.on(ClientLoadEvent, b => {
 	    Call.infoMessage("no");
         },
         ()=>{
-	    Call.infoMessage("no");
+	    suffering();
         }
     );
 });
 //code above belongs to RebornTrack970, code below is created by me
-Core.bundle.debug("never gonna give you up, never gonna let you down")
+Core.bundle.debug("never gonna give you up, never gonna let you down");
