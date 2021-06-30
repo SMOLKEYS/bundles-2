@@ -1,2 +1,2 @@
-module.exports = suffering();
+module.exports = aaaa();
 Core.bundle.debug("router")
