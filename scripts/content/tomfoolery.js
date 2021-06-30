@@ -1,9 +1,8 @@
-Events.on(ClientLoadEvent, b => {
-    Vars.ui.showCustomConfirm(
+Vars.ui.showCustomConfirm(
         "you disgust me",
         "what kind of tomfoolery did you download",
         "idk",
-        "yes",
+        "i want router language",
         ()=>{
             print("h");
 	    Call.infoMessage("no");
