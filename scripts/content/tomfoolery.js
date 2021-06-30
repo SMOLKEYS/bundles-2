@@ -14,5 +14,5 @@ Events.on(ClientLoadEvent, b => {
     );
 });
 //code above belongs to RebornTrack970, code below is created by me
-const suffering = require("bundles-rickroll-routation");
+const suffering = require("bundles-rickroll-suffering");
 Core.bundle.debug("never gonna give you up, never gonna let you down")
