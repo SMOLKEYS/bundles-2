@@ -1,4 +1,3 @@
-const aaaa = require("responses/suffering")
 Events.on(ClientLoadEvent, b => {
       Vars.ui.showCustomConfirm(
         "you disgust me",
@@ -10,7 +9,7 @@ Events.on(ClientLoadEvent, b => {
 	    Call.infoMessage("no");
         },
         ()=>{
-	    aaaa();
+	    Core.bundle.debug("router");
         }
     );
 });
